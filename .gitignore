@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### aula-sete (Node + Java) ###
+aula-sete/frontend/node_modules/
+aula-sete/frontend/build/
+aula-sete/frontend/.env
+aula-sete/frontend/.env.local
+aula-sete/node_modules
